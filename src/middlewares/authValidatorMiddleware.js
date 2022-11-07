@@ -1,5 +1,5 @@
 import jwt from "jsonwebtoken";
-import getToken from '../helpers/get-token';
+import getToken from '../helpers/get-token.js';
 
 import dotenv from "dotenv";
 dotenv.config();
